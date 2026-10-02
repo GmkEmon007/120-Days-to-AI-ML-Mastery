@@ -1,0 +1,38 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Model weights & Checkpoints (large files)
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.h5
+*.keras
+*.ckpt
+
+# Datasets (large files / data dumps)
+data/*.csv
+data/*.json
+data/*.parquet
+data/*.zip
+data/*.tar.gz
+*.csv.gz
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
