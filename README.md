@@ -39,7 +39,7 @@ Welcome to my **120 Days of AI/ML** challenge repository! This space documents d
 
 | Day | Topic / Focus | Status | Notes & Code |
 | :---: | :--- | :---: | :---: |
-| 001 | Topic for Day 1 | [ ] | [Notes & Code](Daily-Notes/Day-001/README.md) |
+| 001 | Topic for Day 1 | [On going] | [Notes & Code](Daily-Notes/Day-001/README.md) |
 | 002 | Topic for Day 2 | [ ] | [Notes & Code](Daily-Notes/Day-002/README.md) |
 | 003 | Topic for Day 3 | [ ] | [Notes & Code](Daily-Notes/Day-003/README.md) |
 | 004 | Topic for Day 4 | [ ] | [Notes & Code](Daily-Notes/Day-004/README.md) |
