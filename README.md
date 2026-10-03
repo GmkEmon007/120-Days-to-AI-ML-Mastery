@@ -1,4 +1,4 @@
-# 🚀 120 Days of AI & Machine Learning Mastery
+# 120 Days of AI & Machine Learning Mastery
 
 Welcome to my **120 Days of AI/ML** challenge repository! This space documents daily learning notes, code implementations, experiments, and end-to-end projects as I journey from fundamental mathematics and classical machine learning to modern deep learning, LLMs, and production MLOps.
 
